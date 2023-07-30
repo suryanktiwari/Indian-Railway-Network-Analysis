@@ -1,6 +1,8 @@
 # Indian-Railway-Network-Analysis
 Subquerying and visualization system for the IRN. Analysis of the network is performed by extracting various properties and inferences are noted down.
 
+Detailed analysis of the project can be read here: https://medium.com/codex/analysis-of-the-indian-railway-network-4fe0c501779e
+
 Dataset used is the IRN time table 2017 data provided by the government.
 Link: https://data.gov.in/resources/indian-railways-time-table-trains-available-reservation-01112017
 
